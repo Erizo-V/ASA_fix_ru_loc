@@ -1,0 +1,2 @@
+UnrealLocres.exe import O:\ArkExtracted\Git\RusLoc_P\ShooterGame\Content\Localization\ShooterGame\ru\ShooterGame.locres O:\ArkExtracted\Git\translation\ru\ShooterGame.csv -f csv -o O:\ArkExtracted\Git\RusLoc_P\ShooterGame\Content\Localization\ShooterGame\ru\ShooterGame.locres
+UnrealPak-With-Compression.bat RusLoc_P
